@@ -1,7 +1,7 @@
 ### Dinesh94Singh
 
 I'm an individual striving to enhance my developer workflow, create and measure
-high-performing projects ultimately craft exceptional software.
+high-performing projects.
 
 Fun Facts
 * I worked at Facebook/Meta and Oracle Cerner
