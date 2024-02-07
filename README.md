@@ -9,5 +9,4 @@ Fun Facts
 * I work best with Nvim (Make sure to check out my dot-files)
 * I can touch type using Colemak-Dmk and Qwerty
 * I love mechanical keyboards and built 4 keyboards from myself
-* Currnetly building a Choc-Keyboard (I do everything from soldering to install
-ing the firmware)
+* Currnetly building a Choc-Keyboard (I do everything from soldering to installing the firmware)
