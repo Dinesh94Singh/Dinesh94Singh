@@ -4,7 +4,7 @@ I'm an individual striving to enhance my developer workflow, create and measure
 high-performing projects and learn new technologies.
 
 Fun Facts
-* I worked at Facebook/Meta and Oracle Cerner.
+* I worked at Facebook/Meta and Oracle Health (Cerner Corp).
 * I work on Backend + MLE (NLP) at Optum.
 * I love Algorithms and Distributed-Systems.
 * Check out the papershelf below to see, what i am currently learning.
